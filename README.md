@@ -134,35 +134,34 @@ np.mean(predict(res.x,X)==y)
 
 ## Output:
 ### Array Value Of X:
-![1](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/68c08599-52cd-4526-a92c-f9fd5d5e0c3c)
+![1](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/798e7b65-ad53-46b6-b4c8-0315e18db1b6)
 
 ### Array Value Of Y:
-![2](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/7b0863c7-6436-4cc3-a1f6-c74e7740e343)
+![2](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/0fa455ab-0634-4ee4-a11c-a6d1c981000c)
 
 ### Exam-1 Score Graph:
-![3](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/00a6ad23-39f5-4dd4-b20d-40ba26564be9)
+![3](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/98c209b6-901b-492f-8869-13337099b1a8)
 
 ### Sigmoid Function Graph:
-![4](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/da8baadd-043b-4705-a338-cc75c673ac17)
+![4](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/3135d387-2f55-4588-8f08-26c53da327c8)
 
 ### X_train_grad Value:
-![5](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/250cccd4-9431-4016-a46e-bde82b587a44)
+![5](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/c4d2daeb-3259-4f40-8884-413ff5d678de)
 
 ### Y_train_grad Value:
-![6](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/605c6746-ca6b-4e59-aaee-eb7f97199d0f)
+![6](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/075bb5cb-394c-45b9-8aa8-9845e045133f)
 
 ### Print res.x:
-![7](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/9b8451c3-54f8-4982-9b45-4c34eb877216)
+![7](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/bce7850d-0921-4947-9814-207a10e7709d)
 
 ### Desicion Boundary-Graph For Exam Score:
-![8](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/a2166ed1-fa04-4e39-8d9f-773b21ffd1a4)
+![8](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/78d98d8c-6c27-4953-81e0-bda1a5f6bd76)
 
 ### Probability Value:
-![9](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/3e8e6842-1504-4ace-9f29-52a0729d5f66)
+![9](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/c359a6ee-d919-47ff-8823-f5e053a06947)
 
 ### Prediction Value Of Mean:
-![10](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/efd78fb0-2230-4bc1-8fe9-f172a6f3e625)
-
+![10](https://github.com/Divya110205/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119404855/945abf34-7f20-4f89-a60f-f747a45eedd2)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
